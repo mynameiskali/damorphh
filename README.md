@@ -3,11 +3,23 @@ Hi, I’m @damorphh
 I’m interested in 
 - offensive security
 - hacking
-- Linux (I'm running MX Linux rn, though I used to be on OpenSuse)
-- VR (rn I have a Quest 2, though I want to move to a Valve something at one point)
-- OpSec/online privacy
+- linux
+  - PC - Debian w/ KDE
+  - Laptop - NixOS w/ KDE
+- VR
+   - Quest 2, currently not using much
+- opsec + online privacy
+- FOSS projects
+- fediverse
+   - currently looking into hosting my own Sharkey instance
 
-I'm currently learning Python, and I'm still pretty much a beginner
-I watch Mental Outlaw, The Linux Experiment on Invidious, PeerTube, and Odysee
+Python beginner
+I watch a lot of Mental Outlaw + Techlore
 
-You can contact me at @sudo:tchncs.de on Matrix
+Contact Me:
+XMPP: `sudo@jix.im`
+Matrix: `sudo:envs.net`
+Signal: `kali.99`
+
+More info:
+[linkstack](https://linkstak.lgbt/@kali)
