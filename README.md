@@ -18,6 +18,7 @@ Python and Rustlang beginner
 I watch a lot of Mental Outlaw + Techlore
 
 Contact Me:
+
 Signal
 : sudo.99
 
